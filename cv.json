@@ -29,7 +29,7 @@
   },
   "work": [
     {
-      "name": "DIRECCION DE ESTRATEGIA Y COMUNICACION GUBERNAMENTAL",
+      "name": "Direccion de Estrategia y Comunicacion Gubernamental",
       "position": "Soporte Tecnico Informatico",
       "url": "https://diecom.gob.do",
       "startDate": "2021-11-01",
@@ -184,11 +184,14 @@
   }],
   "projects": [
     {
-      "name": "LISTIFY MARKET",
+      "name": "Listify Market",
       "isActive": false,
       "description": "Una aplicación móvil para la consulta de precios de supermercados y la realización de listas de compra.",
       "highlights": [
-        "Proyecto de Grado Universitario"
+        "Proyecto de Grado Universitario",
+        "React Native",
+        "ASP.NET",
+        "SQL Server"
       ],
       "url": ""
     }
