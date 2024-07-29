@@ -2,7 +2,7 @@
   "basics": {
     "name": "Enmanuel Ureña Vargas",
     "label": "Ingeniero de Software y Full Stack Developer con más de 2 años de experiencia.",
-    "image": "https://media.licdn.com/dms/image/D5603AQF_DSszWJFOsw/profile-displayphoto-shrink_800_800/0/1691612436909?e=1714608000&v=beta&t=UzTqH1AeAk8IR6VYVHp93-zAA2wATpdqc3ZaIwrOUXk",
+    "image": "/DSC09827.jpg",
     "email": "enmanuelurenav@gmail.com",
     "phone": "+18494675488",
     "url": "",
@@ -164,11 +164,11 @@
   "languages": [
     {
       "language": "Spanish",
-      "fluency": "Native speaker"
+      "fluency": "Idioma Nativo"
     },
     {
       "language": "English",
-      "fluency": "B2 - Intermedio"
+      "fluency": "C1 - Avanzado"
     }
   ],
   "interests": [{
@@ -194,6 +194,30 @@
         "SQL Server"
       ],
       "url": ""
+    },
+    {
+      "name": "Vacaciones DIECOM",
+      "isActive": true,
+      "description": "Una aplicación web para la solicitud y aprobación de vacaciones de los empleados de la institución.",
+      "highlights": [
+        "Proyecto de Trabajo",
+        "Power Apps",
+        "Power Automate",
+        "Microsoft 365"
+      ],
+      "url": "https://diecom.gob.do"
+    },
+    {
+      "name": "Mesa de ayuda DIECOM",
+      "isActive": true,
+      "description": "Una aplicación web para la solicitud y seguimiento de tickets de soporte técnico.",
+      "highlights": [
+        "Proyecto de Trabajo",
+        "Power Apps",
+        "Power Automate",
+        "Microsoft 365"
+      ],
+      "url": "https://diecom.gob.do"
     }
   ]
 }
