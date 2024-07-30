@@ -5,7 +5,7 @@
     "image": "/DSC09827.jpg",
     "email": "enmanuelurenav@gmail.com",
     "phone": "+18494675488",
-    "url": "",
+    "url": "https://enmanuelurena.netlify.app/",
     "summary": "Ingenierio de Software graduado en el INTEC, con mas de 2 años de experiencia en desarrollo Fullstack JavaScript/React y con capacidad de aprender otros lenguajes. Me encuentro constantemente aprendiendo tecnologías de punta.",
     "location": {
       "address": "C/ Esther Rosario #10, Edif. Maryit Marie II",
@@ -52,9 +52,9 @@
     ]
   }],
   "education": [{
-    "institution": "Instituto Tecnologico de Santo Domingo",
+    "institution": "Instituto Tecnologico de Santo Domingo - INTEC",
     "url": "https://intec.edu.do",
-    "area": "Ingeniero de Software",
+    "area": "Ingenieria de Software",
     "studyType": "Bachelor",
     "startDate": "2019-07-29",
     "endDate": "2023-01-13",
@@ -126,7 +126,7 @@
       ]
     },
     {
-      "name": "MySQL",
+      "name": "SQL",
       "level": "Intermedio",
       "keywords": [
         "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
@@ -158,6 +158,55 @@
       "level": "Intermedio",
       "keywords": [
         "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
+      ]
+    },
+    {
+      "name": "PowerBI",
+      "level": "Intermedio",
+      "keywords": [
+        "Analisis de datos", "Visualización de datos", "Inteligencia de Negocios"
+      ]
+    },
+    {
+      "name": "Docker",
+      "level": "Intermedio",
+      "keywords": [
+        "Contenedores", "Despliegue", "Infraestructura"
+      ]
+    },
+    {
+      "name": "Azure",
+      "level": "Intermedio",
+      "keywords": [
+        "Cloud", "Despliegue", "Infraestructura", "Microsoft"
+      ]
+    },
+    {
+      "name": "Power Apps",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo de Aplicaciones", "Microsoft", "Low Code"
+      ]
+    },
+    {
+      "name": "Power Automate",
+      "level": "Intermedio",
+      "keywords": [
+        "Automatización de Procesos", "Microsoft", "Low Code"
+      ]
+    },
+    {
+      "name": "Microsoft 365",
+      "level": "Intermedio",
+      "keywords": [
+        "Productividad", "Colaboración", "Microsoft"
+      ]
+    },
+    {
+      "name": "Python",
+      "level": "Intermedio",
+      "keywords": [
+        "Desarrollo Web", "Backend", "Data Science", "Machine Learning"
       ]
     }
   ],
