@@ -6,7 +6,7 @@
     "email": "enmanuelurenav@gmail.com",
     "phone": "+18494675488",
     "url": "https://enmanuelurena.netlify.app/",
-    "summary": "Ingenierio de Software graduado en el INTEC, con mas de 2 años de experiencia en desarrollo Fullstack JavaScript/React y con capacidad de aprender otros lenguajes. Me encuentro constantemente aprendiendo tecnologías de punta.",
+    "summary": "Ingenierio de Software graduado en el INTEC, con mas de 2 años de experiencia en el desarrollo de proyectos Fullstack NodeJS/React y con capacidad de aprender otros lenguajes. Me encuentro constantemente aprendiendo tecnologías de punta.",
     "location": {
       "address": "C/ Esther Rosario #10, Edif. Maryit Marie II",
       "postalCode": "11106",
@@ -35,178 +35,182 @@
       "startDate": "2021-11-01",
       "endDate": null,
       "summary": "Proporcionar soluciones eficientes y orientadas al usuario para problemas relacionados con hardware, software y redes. Creación, diseño y desarrollo de aplicaciones para garantizar un flujo de trabajo eficiente y organizado en las diferentes áreas de la institución.",
-      "highlights": [
-        ""
-      ]
+      "highlights": [""]
     }
   ],
-  "volunteer": [{
-    "organization": "Organization",
-    "position": "Volunteer",
-    "url": "https://organization.com/",
-    "startDate": "2012-01-01",
-    "endDate": "2013-01-01",
-    "summary": "Description…",
-    "highlights": [
-      "Awarded 'Volunteer of the Month'"
-    ]
-  }],
-  "education": [{
-    "institution": "Instituto Tecnologico de Santo Domingo - INTEC",
-    "url": "https://intec.edu.do",
-    "area": "Ingenieria de Software",
-    "studyType": "Bachelor",
-    "startDate": "2019-07-29",
-    "endDate": "2023-01-13",
-    "score": "3.7",
-    "courses": [
-      ""
-    ]
-  }],
-  "awards": [{
-    "title": "Award",
-    "date": "2014-11-01",
-    "awarder": "Company",
-    "summary": "There is no spoon."
-  }],
-  "certificates": [{
-    "name": "Certificate",
-    "date": "2021-11-07",
-    "issuer": "Company",
-    "url": "https://certificate.com"
-  }],
-  "publications": [{
-    "name": "Publication",
-    "publisher": "Company",
-    "releaseDate": "2014-10-01",
-    "url": "https://publication.com",
-    "summary": "Description…"
-  }],
+  "volunteer": [
+    {
+      "organization": "Organization",
+      "position": "Volunteer",
+      "url": "https://organization.com/",
+      "startDate": "2012-01-01",
+      "endDate": "2013-01-01",
+      "summary": "Description…",
+      "highlights": ["Awarded 'Volunteer of the Month'"]
+    }
+  ],
+  "education": [
+    {
+      "institution": "Instituto Tecnologico de Santo Domingo - INTEC",
+      "url": "https://intec.edu.do",
+      "area": "Ingenieria de Software",
+      "studyType": "Bachelor",
+      "startDate": "2019-07-29",
+      "endDate": "2023-01-13",
+      "score": "3.7",
+      "courses": [""]
+    }
+  ],
+  "awards": [
+    {
+      "title": "Award",
+      "date": "2014-11-01",
+      "awarder": "Company",
+      "summary": "There is no spoon."
+    }
+  ],
+  "certificates": [
+    {
+      "name": "Foundations of Project Management",
+      "date": "2024-09-26",
+      "issuer": "Google + Coursera",
+      "url": "https://coursera.org/verify/1WZTUY9XH76A"
+    },
+    {
+      "name": "FullStack Open Course",
+      "date": "2024-01-11",
+      "issuer": "University of Helsinki",
+      "url": "https://studies.cs.helsinki.fi/stats/api/certificate/fullstackopen/en/e6182ca8e062305a6ab4b721c400d789"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Publication",
+      "publisher": "Company",
+      "releaseDate": "2014-10-01",
+      "url": "https://publication.com",
+      "summary": "Description…"
+    }
+  ],
   "skills": [
     {
       "name": "HTML",
       "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend"]
     },
     {
       "name": "CSS",
       "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Diseño Responsive"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Diseño Responsive"]
     },
     {
       "name": "JavaScript",
       "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "Fullstack"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "Backend", "Fullstack"]
     },
     {
       "name": "C#",
       "level": "Intermedio",
-      "keywords": [
-        "ASP.NET", ".NET CORE", "Entity Framework"
-      ]
+      "keywords": ["ASP.NET", ".NET CORE", "Entity Framework"]
     },
     {
       "name": "TypeScript",
       "level": "Basico",
       "keywords": [
-        "Desarrollo Web", "Frontend", "Backend", "JavaScript Superset"
+        "Desarrollo Web",
+        "Frontend",
+        "Backend",
+        "JavaScript Superset"
       ]
     },
     {
       "name": "Node",
       "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Backend", "JavaScript", "Servidor"
-      ]
+      "keywords": ["Desarrollo Web", "Backend", "JavaScript", "Servidor"]
     },
     {
       "name": "SQL",
       "level": "Intermedio",
       "keywords": [
-        "Bases de Datos", "SQL", "Almacenamiento de Datos", "Backend"
+        "Bases de Datos",
+        "SQL",
+        "Almacenamiento de Datos",
+        "Backend"
       ]
     },
     {
       "name": "Git",
       "level": "Intermedio",
-      "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente"
-      ]
+      "keywords": ["Control de Versiones", "Colaboración", "Código Fuente"]
     },
     {
       "name": "GitHub",
       "level": "Avanzado",
       "keywords": [
-        "Control de Versiones", "Colaboración", "Código Fuente", "Git"
+        "Control de Versiones",
+        "Colaboración",
+        "Código Fuente",
+        "Git"
       ]
     },
     {
       "name": "Next.js",
       "level": "Basico",
       "keywords": [
-        "Desarrollo Web", "Frontend", "React Framework", "SSR", "Static Generation"
+        "Desarrollo Web",
+        "Frontend",
+        "React Framework",
+        "SSR",
+        "Static Generation"
       ]
     },
     {
       "name": "React",
       "level": "Intermedio",
-      "keywords": [
-        "Desarrollo Web", "Frontend", "JavaScript Library", "UI"
-      ]
+      "keywords": ["Desarrollo Web", "Frontend", "JavaScript Library", "UI"]
     },
     {
       "name": "PowerBI",
       "level": "Intermedio",
       "keywords": [
-        "Analisis de datos", "Visualización de datos", "Inteligencia de Negocios"
+        "Analisis de datos",
+        "Visualización de datos",
+        "Inteligencia de Negocios"
       ]
     },
     {
       "name": "Docker",
       "level": "Intermedio",
-      "keywords": [
-        "Contenedores", "Despliegue", "Infraestructura"
-      ]
+      "keywords": ["Contenedores", "Despliegue", "Infraestructura"]
     },
     {
       "name": "Azure",
       "level": "Intermedio",
-      "keywords": [
-        "Cloud", "Despliegue", "Infraestructura", "Microsoft"
-      ]
+      "keywords": ["Cloud", "Despliegue", "Infraestructura", "Microsoft"]
     },
     {
       "name": "Power Apps",
       "level": "Intermedio",
-      "keywords": [
-        "Desarrollo de Aplicaciones", "Microsoft", "Low Code"
-      ]
+      "keywords": ["Desarrollo de Aplicaciones", "Microsoft", "Low Code"]
     },
     {
       "name": "Power Automate",
       "level": "Intermedio",
-      "keywords": [
-        "Automatización de Procesos", "Microsoft", "Low Code"
-      ]
+      "keywords": ["Automatización de Procesos", "Microsoft", "Low Code"]
     },
     {
       "name": "Microsoft 365",
       "level": "Intermedio",
-      "keywords": [
-        "Productividad", "Colaboración", "Microsoft"
-      ]
+      "keywords": ["Productividad", "Colaboración", "Microsoft"]
     },
     {
       "name": "Python",
       "level": "Intermedio",
       "keywords": [
-        "Desarrollo Web", "Backend", "Data Science", "Machine Learning"
+        "Desarrollo Web",
+        "Backend",
+        "Data Science",
+        "Machine Learning"
       ]
     }
   ],
@@ -220,17 +224,18 @@
       "fluency": "C1 - Avanzado"
     }
   ],
-  "interests": [{
-    "name": "Wildlife",
-    "keywords": [
-      "Ferrets",
-      "Unicorns"
-    ]
-  }],
-  "references": [{
-    "name": "Jane Doe",
-    "reference": "Reference…"
-  }],
+  "interests": [
+    {
+      "name": "Wildlife",
+      "keywords": ["Ferrets", "Unicorns"]
+    }
+  ],
+  "references": [
+    {
+      "name": "Jane Doe",
+      "reference": "Reference…"
+    }
+  ],
   "projects": [
     {
       "name": "Listify Market",
