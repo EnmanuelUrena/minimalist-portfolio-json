@@ -18,7 +18,7 @@
       {
         "network": "LinkedIn",
         "username": "enmanuelurena",
-        "url": "https://www.linkedin.com/in/enmanuel-ure%C3%B1a-a47480211/"
+        "url": "https://www.linkedin.com/in/enmanuelurena"
       },
       {
         "network": "GitHub",
@@ -70,6 +70,12 @@
     }
   ],
   "certificates": [
+    {
+      "name": "Microsoft Certified: Azure Fundamentals",
+      "date": "2025-02-15",
+      "issuer": "Microsoft",
+      "url": "https://learn.microsoft.com/api/credentials/share/es-es/EnmanuelUreaVargas-2096/129BF6A9E2887BD6?sharingId"
+    },
     {
       "name": "Foundations of Project Management",
       "date": "2024-09-26",
@@ -185,7 +191,7 @@
     },
     {
       "name": "Azure",
-      "level": "Intermedio",
+      "level": "Basico",
       "keywords": ["Cloud", "Despliegue", "Infraestructura", "Microsoft"]
     },
     {
